@@ -1,4 +1,4 @@
-# handwritten-digit-recognition
+
 # Handwritten Digit Recognition System
 
 ## 📌 Project Overview
