@@ -24,7 +24,7 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
 - Able to predict handwritten digits
 
 ## 🎥 Demo
-(https://1drv.ms/v/c/9f35541de7948f7a/IQD5hoEqbE7NS46X0F28A7zgAe2xct9cL_Kxi8pbyn2tDA8?e=duCCqk)
+(https://1drv.ms/v/c/9f35541de7948f7a/IQBnaSWWdgp1Ro0t92tnQSNvATm02awZQjNvDbnA6M0b14Y?e=YW6jjS)
 
 ## 👨‍💻 Author
 Piyush Dange
